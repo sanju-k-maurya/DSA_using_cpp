@@ -1,2 +1,2 @@
-# data structure programs in c++
-This repository contains data structure programs in cpp.
+# data structure and algorithm programs in c++
+This repository contains DSA programs in cpp.
