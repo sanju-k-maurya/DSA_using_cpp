@@ -10,3 +10,4 @@
 10. Program to implement Taylor series using Horner's rule.(Recursive as well as Iterative)
 11. Program to get nth term of fibonacci number.(Iterative, Recursive and Memoization)
 12. Program to compute nCr using Recursion.
+13. Program to implement tower of hanoi.
