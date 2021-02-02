@@ -1,1 +1,11 @@
+Given a positive integer N, print count of set bits in it.
+
+You are given two numbers A and B. The task is to count the number of bits needed to be flipped to convert A to B.
+
+Given a positive integer N. The task is to check if N is a power of 2. More formally, check if N can be expressed as 2^x for some x.
+
+
+
+
+
 
